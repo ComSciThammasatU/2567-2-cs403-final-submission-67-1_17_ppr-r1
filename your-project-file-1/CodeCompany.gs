@@ -36,7 +36,7 @@ function insertLink(folder, fileName, targetCell) {
 }
 
 
-// 🔹 ตัดชื่อไฟล์ให้สะอาดขึ้น
+// ตัดชื่อไฟล์ให้สะอาดขึ้น
 function getCleanFileName(filePath) {
   const parts = filePath.split("_Files_/");
   return parts.length > 1 ? parts[1] : filePath;
@@ -83,7 +83,7 @@ function onEdit(e) {
   const sheetName = sheet.getName();
   const cell = e.range;
 
-  // 🟢 กรณี: ชีต "นักศึกษาก่อนปฏิบัติสหกิจ"
+  // กรณี: ชีต "นักศึกษาก่อนปฏิบัติสหกิจ"
   if (sheetName === "ลงทะเบียนสถานประกอบการ") {
     const row = cell.getRow();
     const col = cell.getColumn();
