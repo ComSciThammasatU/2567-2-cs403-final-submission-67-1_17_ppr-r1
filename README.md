@@ -41,7 +41,7 @@
 ## วิธีการติดตั้งและเริ่มใช้งาน 
 1.เข้าสู่ระบบ login ผ่าน Appsheet ใช้ลิงค์ https://www.appsheet.com/start/bcd82aa4-2664-4230-adf8-f1175d1bffd1 โดยผมได้เชิญอาจารย์ทั้ง 3 ท่าน ที่จะมีสิทธิ์เป็น Admin โดยอาจารย์จะต้องไปกดยอมรับในเมล์โดยมีดังนี้ nawarerk@tu.ac.th ,
 rattanat@tu.ac.th , nnuchako@tu.ac.th ถ้าอาจารย์ไม่กดรับในเมล์อาจารย์จะสามารถเข้าใช้ได้ในฐานะ User แต่ถ้ายืนยันจะเข้าในฐานะ Admin
-2.ถ้าต้องการเห็นที่เก็บข้อมูล ก็สามารถดาวน์โหลดได้ โดยเข้าไปที่ Google Drive ที่ลิงค์ https://drive.google.com/drive/folders/1q8kvHcEMuF28ePiimqwuc5-46NTwbrvo?usp=sharing
+2.ถ้าต้องการเห็นข้อมูล mockup ก็สามารถดาวน์โหลดได้ โดยเข้าไปที่ Google Drive ที่ลิงค์ https://drive.google.com/drive/folders/1q8kvHcEMuF28ePiimqwuc5-46NTwbrvo?usp=sharing
 
 ## ติดต่อผู้พัฒนา
 Email: rachanon.som@dome.tu.ac.th  
